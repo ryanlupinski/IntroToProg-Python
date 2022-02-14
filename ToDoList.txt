@@ -1,0 +1,6 @@
+task,priority
+cook,1
+laundry,3
+gym,8
+pay bills,2
+sweep,1
